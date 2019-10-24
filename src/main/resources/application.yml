@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: golden-idea-db-serivce
+#  datasource:
+#    driver-class-name: com.mysql.jdbc.Driver
+#    username: root
+#    password: 123456
+#    url: jdbc:mysql://127.0.0.1:3306/gold-idea?characterEncoding=utf-8
+server:
+  port: 20002
+  servlet:
+    context-path: /group-golden-idea-db-serivce
